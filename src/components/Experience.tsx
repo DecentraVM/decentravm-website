@@ -160,14 +160,14 @@ export default function Experience() {
         </h2>
         <div className="flex gap-3 mb-12">
           <a
-            href="https://client.scalar.com/workspace/default/collection/05lGZKpTzqITxO3jJFiR-/overview"
+            href="https://docs.decentravm.top/"
             target="_blank"
             className="inline-flex px-8 py-3 rounded-none text-sm font-semibold bg-white text-black border border-white hover:bg-transparent hover:text-white hover:-translate-y-0.5 transition-all"
           >
             Get started
           </a>
           <a
-            href="https://client.scalar.com/workspace/default/collection/05lGZKpTzqITxO3jJFiR-/overview"
+            href="https://docs.decentravm.top/"
             target="_blank"
             className="inline-flex px-8 py-3 rounded-none text-sm font-semibold bg-transparent text-white border border-white/20 hover:bg-white hover:text-black hover:-translate-y-0.5 transition-all"
           >
