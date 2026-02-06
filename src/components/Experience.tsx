@@ -160,7 +160,7 @@ export default function Experience() {
         </h2>
         <div className="flex gap-3 mb-12">
           <a
-            href="https://docs.decentravm.top/"
+            href="https://api.avm.codes/"
             target="_blank"
             className="inline-flex px-8 py-3 rounded-none text-sm font-semibold bg-white text-black border border-white hover:bg-transparent hover:text-white hover:-translate-y-0.5 transition-all"
           >
