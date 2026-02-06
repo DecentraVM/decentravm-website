@@ -18,14 +18,14 @@ export default function Hero() {
         </p>
         <div className="flex gap-4 justify-center flex-wrap">
           <Link
-            href="https://client.scalar.com/workspace/default/collection/05lGZKpTzqITxO3jJFiR-/overview"
+            href="https://docs.decentravm.top/"
             target="_blank"
             className="px-7 py-3 rounded-none text-sm font-semibold bg-black text-white border border-black hover:bg-white hover:text-black hover:-translate-y-0.5 transition-all"
           >
             Get started
           </Link>
           <Link
-            href="https://client.scalar.com/workspace/default/collection/05lGZKpTzqITxO3jJFiR-/overview"
+            href="https://docs.decentravm.top/"
             target="_blank"
             className="px-7 py-3 rounded-none text-sm font-semibold border border-black text-black bg-white hover:bg-black hover:text-white hover:-translate-y-0.5 transition-all"
           >
@@ -35,7 +35,7 @@ export default function Hero() {
         <div className="flex gap-6 justify-center mt-6">
           <Link href="https://www.linkedin.com/in/decentra-vm-18b3473ab/" target="_blank" className="text-sm text-black/40 hover:text-black transition-colors">LinkedIn</Link>
           <Link href="https://github.com/Decentra-VM" target="_blank" className="text-sm text-black/40 hover:text-black transition-colors">GitHub</Link>
-          <Link href="https://x.com/DecentraVM" target="_blank" className="text-sm text-black/40 hover:text-black transition-colors">X</Link>
+          <Link href="https://x.com/Decentra_VM" target="_blank" className="text-sm text-black/40 hover:text-black transition-colors">X</Link>
         </div>
       </div>
     </section>
