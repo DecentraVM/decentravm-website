@@ -12,8 +12,8 @@ export default function Footer() {
           <div className="flex gap-6">
             <Link href="https://www.linkedin.com/in/decentra-vm-18b3473ab/" target="_blank" className="text-sm text-white/40 hover:text-white transition-colors">LinkedIn</Link>
             <Link href="https://github.com/Decentra-VM" target="_blank" className="text-sm text-white/40 hover:text-white transition-colors">GitHub</Link>
-            <Link href="https://x.com/DecentraVM" target="_blank" className="text-sm text-white/40 hover:text-white transition-colors">X</Link>
-            <Link href="https://client.scalar.com/workspace/default/collection/05lGZKpTzqITxO3jJFiR-/overview" target="_blank" className="text-sm text-white/40 hover:text-white transition-colors">Docs</Link>
+            <Link href="https://x.com/Decentra_VM" target="_blank" className="text-sm text-white/40 hover:text-white transition-colors">X</Link>
+            <Link href="https://docs.decentravm.top/" target="_blank" className="text-sm text-white/40 hover:text-white transition-colors">Docs</Link>
           </div>
         </div>
       </div>
