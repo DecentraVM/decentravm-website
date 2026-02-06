@@ -32,6 +32,9 @@ export default function Navbar() {
           <Link href="#" className="text-sm text-[#666] hover:text-black transition-colors">
             Nerd wall
           </Link>
+          <Link href="https://x.com/Decentra_VM" target="_blank" className="text-sm text-[#666] hover:text-black transition-colors">
+            X
+          </Link>
         </div>
 
         {/* Hamburger */}
@@ -52,6 +55,7 @@ export default function Navbar() {
           <Link href="/" onClick={() => setOpen(false)} className={linkClass("/")}>Home</Link>
           <Link href="/manifesto" onClick={() => setOpen(false)} className={linkClass("/manifesto")}>Manifesto</Link>
           <Link href="#" className="text-sm text-[#666] hover:text-black">Nerd wall</Link>
+          <Link href="https://x.com/Decentra_VM" target="_blank" className="text-sm text-[#666] hover:text-black">X</Link>
         </div>
       )}
     </nav>
