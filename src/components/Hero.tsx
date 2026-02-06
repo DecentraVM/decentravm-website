@@ -18,7 +18,7 @@ export default function Hero() {
         </p>
         <div className="flex gap-4 justify-center flex-wrap">
           <Link
-            href="https://docs.decentravm.top/"
+            href="https://api.avm.codes/"
             target="_blank"
             className="px-7 py-3 rounded-none text-sm font-semibold bg-black text-white border border-black hover:bg-white hover:text-black hover:-translate-y-0.5 transition-all"
           >
