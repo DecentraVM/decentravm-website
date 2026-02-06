@@ -28,7 +28,7 @@ export default function FinalCTA() {
               Start deploying autonomous software, running AI logic, and scaling your impact today.
             </p>
             <Link
-              href="https://client.scalar.com/workspace/default/collection/05lGZKpTzqITxO3jJFiR-/overview"
+              href="https://docs.decentravm.top/"
               target="_blank"
               className="inline-flex px-10 py-4 rounded-none text-base font-semibold bg-white text-black border border-white hover:bg-transparent hover:text-white hover:-translate-y-0.5 transition-all"
             >
