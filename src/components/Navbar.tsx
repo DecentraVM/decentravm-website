@@ -29,11 +29,8 @@ export default function Navbar() {
           <Link href="/manifesto" className={linkClass("/manifesto")}>
             Manifesto
           </Link>
-          <Link href="#" className="text-sm text-[#666] hover:text-black transition-colors">
-            Nerd wall
-          </Link>
           <Link href="https://x.com/Decentra_VM" target="_blank" className="text-sm text-[#666] hover:text-black transition-colors">
-            X
+            Nerd wall
           </Link>
         </div>
 
@@ -54,8 +51,7 @@ export default function Navbar() {
         <div className="md:hidden border-t border-black/[0.08] bg-[rgba(255,255,255,0.97)] px-6 py-6 flex flex-col gap-4">
           <Link href="/" onClick={() => setOpen(false)} className={linkClass("/")}>Home</Link>
           <Link href="/manifesto" onClick={() => setOpen(false)} className={linkClass("/manifesto")}>Manifesto</Link>
-          <Link href="#" className="text-sm text-[#666] hover:text-black">Nerd wall</Link>
-          <Link href="https://x.com/Decentra_VM" target="_blank" className="text-sm text-[#666] hover:text-black">X</Link>
+          <Link href="https://x.com/Decentra_VM" target="_blank" className="text-sm text-[#666] hover:text-black">Nerd wall</Link>
         </div>
       )}
     </nav>
